@@ -1,0 +1,21 @@
+html, body {
+    margin: 0px;
+    background-image: linear-gradient(to bottom right, #2F4F4F, #800080);
+    overflow-x: hidden;
+}
+h1 {
+    color: #1b95cd;
+    font-family: cursive;
+    opacity: 50%;
+    position: absolute;
+    -webkit-text-stroke: 2px white;
+}
+
+.globe {
+    text-align: center;
+    margin-top: 150px;
+}
+    
+.globe_image {
+    height: 70vh;
+}
